@@ -1,5 +1,4 @@
-Effective IntelliJ IDEA
-============================================
+# Effective IntelliJ IDEA
 
 ![](resources/Intellij-Idea.png) Develop with **pleasure**! **乐**在开发！
 
@@ -17,14 +16,12 @@ Effective IntelliJ IDEA
 	可能别人已经知道了，可以告诉你。
 - 在`IntelliJ IDEA`使用中遇到的问题。:sob:
 
-个人整理
-------------------
+# 个人整理
 
 - 个人整理的`Keynote`幻灯片[Effective-IntelliJ-IDEA](Effective-IntelliJ-IDEA.key)
 - [演示工程](demo-project)
 
-官方资料
--------------------
+# 官方资料
 
 - [IntelliJ IDEA Home Page](https://www.jetbrains.com/idea/)
 - [IntelliJ IDEA Features](https://www.jetbrains.com/idea/features/)
@@ -32,10 +29,16 @@ Effective IntelliJ IDEA
 - [IntelliJ IDEA Help](https://www.jetbrains.com/idea/help/intellij-idea.html)
 - [JetBrains微博号](http://weibo.com/u/3220313942)
 
-​相关资料
-------------------
+# 书籍
+
+- [IntelliJ IDEA Essentials](https://book.douban.com/subject/26324131/)
+- [Getting started with IntelliJ IDEA](https://book.douban.com/subject/25804145/)
+- [IntelliJ IDEA in Action](https://book.douban.com/subject/2300268/)
+
+# 相关资料
 
 - 国内`IntelliJ IDEA`布道者[卷爷](https://github.com/linux-china)（Weibo [@linux_china](http://weibo.com/linux2china)）的分享PPT [IntelliJ IDEA Practice](resources/IntelliJ-IDEA-Practice.ppt)
+- [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial)，[@judasn](https://github.com/judasn)爱心整理的资料 :heart_eyes: 内容丰富！多谢[@EdwardLee03](https://github.com/EdwardLee03)的[推荐](https://github.com/oldratlee/Effective-IntelliJ-IDEA/issues/1)。
 - [解析IntelliJ IDEA内部设计](http://www.importnew.com/14260.html)
 
 ### 讨论
